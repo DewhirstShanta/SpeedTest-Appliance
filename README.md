@@ -9,5 +9,5 @@ The project features to have are :-</br>
 1. Automatic (preseed file) installation of Debian and othr speedtest components.</br>
    a) LAMP server scripts</br>
    b) Speedtest Scripts.</br>
-   c) 
+   c) Bash script to make the Raspberry Pi a simulated embedded service As Dewhirst Speedtest Server.</br>
 
